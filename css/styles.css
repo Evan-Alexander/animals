@@ -4,3 +4,20 @@
 #b-collie {
   display: none;
 }
+
+body {
+  background-color: #819b98;
+  margin-top: 5%;
+}
+
+.panel-body {
+  background-color: #e1f7f4;
+}
+
+.panel {
+  background-color: #c7d8d6;
+}
+
+img {
+  width: 450px;
+}
